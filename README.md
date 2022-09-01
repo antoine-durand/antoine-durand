@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/920048092047372318">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/antoine-durand-b763b719a">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<br />
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoine-durand&show_icons=true)
